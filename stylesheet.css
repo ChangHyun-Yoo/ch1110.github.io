@@ -1,0 +1,70 @@
+body{
+  font-family: 'Nanum Gothic';
+}
+
+h1 {
+  margin: 0.8vw;
+  font-weight: normal;
+  font-size: 2vw;
+  color: white;
+  display: inline;
+  padding-right: 5vw;
+}
+
+header {
+  background-color: #989898;
+}
+
+a {
+  color: black;
+  font-size: 1.5vw;
+  font-weight: lighter;
+  text-decoration: None;
+  padding: 0 5vw 0 0;
+  display: inline;
+}
+
+a:hover {
+  color: #404040;
+  transition:0.2s ease-in-out;
+}
+
+dl {
+  font-size: 1.7vw;
+  font-weight: normal;
+  color: #707070;
+  margin: 0.8vw;
+}
+
+dd, article {
+  font-size: 1.5vw;
+  font-weight: lighter;
+  color: #707070;
+  margin: 1.5vw;
+
+}
+
+ul {
+  list-style: none;
+  display: inline;
+  padding-left: 0;
+}
+
+li {
+  list-style: none;
+  display: inline;
+  padding-left: 0;
+}
+
+nav {
+  display: inline;
+}
+
+section {
+  font-size: 1.5vw;
+  margin: 3em;
+}
+
+img.sutsup {
+  width:18%;
+}
